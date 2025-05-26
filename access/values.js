@@ -3,8 +3,8 @@ var isRightsEnabled = true; // Права
 var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
-var birthdate = "11.05.2003"; // Дата рождения
-var fullname = "Кудінов Анатолій Іванович" // ФИО
+var birthdate = "25.06.2005"; // Дата рождения
+var fullname = "Бабійчук Валентин Іванович" // ФИО
 var name = "Анатолій" // Имя
 
 // Паспорт
